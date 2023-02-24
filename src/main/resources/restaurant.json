@@ -1,0 +1,14 @@
+{
+  "restaurantName":"subway",
+  "managerName":"harshitha",
+  "contactNumber":"9876544356",
+  "address":{
+      "buildingName":"abc colony",
+	  "area":"secunderabad",
+	  "streetNo":"250-a",
+	  "city":"hyderabad",
+	  "state":"telangana",
+      "country":"india",
+	  "pincode":"500003"   
+}
+}
